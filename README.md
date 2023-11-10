@@ -1,2 +1,2 @@
-# horiseonCodeRefractor
-edXBootcamp_weekOneChallenge
+# horiseonCodeRefractorChallenge
+For the EdX boot camp.
