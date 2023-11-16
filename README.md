@@ -11,9 +11,7 @@ This way we can be more inclusive, allowing more people to access the website. O
 Overall, it improves the experience of viewers and benefits the creators. 
 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -24,7 +22,14 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-No installations are required. The website can be accessed at https://jennysiu.github.io/horiseonCodeRefractor/.
+No installations are required. The files can be accessed at https://jennysiu.github.io/horiseonCodeRefractor/.
+
+
+Live link to see the webpage: 
+https://jennysiu.github.io/horiseonCodeRefractor/
+
+Upon opening the live link, it should look like this:
+![Demo picture of what the website should look like upon opening](../horiseonCodeRefractor/assets/images/horeseonCodeRefractorDemo.png)
 
 
 ## Usage
