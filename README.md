@@ -29,8 +29,7 @@ Live link to see the webpage:
 https://jennysiu.github.io/horiseonCodeRefractor/
 
 Upon opening the live link, it should look like this:
-![Demo picture of what the website should look like upon opening](../horiseonCodeRefractor/assets/images/horeseonCodeRefractorDemo.png)
-
+![Demo of what the webpage should look like.](assets/images/horeseonCodeRefractorDemo.png)
 
 ## Usage
 
