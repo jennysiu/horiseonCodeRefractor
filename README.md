@@ -26,7 +26,7 @@ No installations are required. The files can be accessed at https://jennysiu.git
 
 
 Live link to see the webpage: 
-https://jennysiu.github.io/horiseonCodeRefractor/
+https://jennysiu.github.io/horiseonCodeRefractor/.
 
 Upon opening the live link, it should look like this:
 ![Demo of what the webpage should look like.](assets/images/horeseonCodeRefractorDemo.png)
